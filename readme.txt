@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git push to github.com
 Creating a new branch is quick
 delete help
+when Confict 
