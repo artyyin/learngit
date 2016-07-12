@@ -4,4 +4,4 @@ Git has a mutable index called stage
 Git tracks changes of files.
 Git push to github.com
 Creating a new branch is quick
-help 
+delete help
